@@ -1,13 +1,4 @@
----
-title: "Bike-share-analysis"
-author: "Atul Singh Gusain"
-date: "2025-05-01"
-output:
-  md_document:
-    variant: gfm
-    preserve_yaml: true
-
----
+# Bike_share_analysis
 
 # 📌 Introduction
 
